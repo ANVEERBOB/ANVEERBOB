@@ -177,8 +177,6 @@ Deepfake Detection System
 
 ## 🎯 2026 Goals
 
-🎯 Crack GATE DA 2026
-
 🎯 Master Advanced DSA
 
 🎯 Become Salesforce Architect
